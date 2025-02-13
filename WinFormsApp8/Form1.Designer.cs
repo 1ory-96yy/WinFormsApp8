@@ -43,7 +43,7 @@
             label1.Name = "label1";
             label1.Size = new Size(50, 20);
             label1.TabIndex = 0;
-            label1.Text = "label1";
+            label1.Text = "";
             // 
             // button1
             // 
@@ -51,7 +51,7 @@
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 1;
-            button1.Text = "button1";
+            button1.Text = "Підтвердити";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -70,7 +70,7 @@
             label2.Name = "label2";
             label2.Size = new Size(50, 20);
             label2.TabIndex = 3;
-            label2.Text = "label2";
+            label2.Text = "";
             // 
             // button2
             // 
@@ -78,7 +78,7 @@
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 4;
-            button2.Text = "button2";
+            button2.Text = "Підтвердити";
             button2.UseVisualStyleBackColor = true;
             // 
             // textBox2
